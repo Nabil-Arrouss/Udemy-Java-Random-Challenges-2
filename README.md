@@ -15,3 +15,7 @@ The repository contains the following Java classes:
 4. **EvenNumbers**: Contains a method `sumOfEvenNumbers` which calculates the sum of even numbers in a given range.
 
 5. **LargestPrime**: Contains a method `getLargestPrime` which returns the largest prime factor of a given number.
+
+## Main Method 
+
+The `Main` class serves as the entry point for running tests on the utility methods provided in this repository. It contains sample test cases for each utility method. You can run the `Main` class to execute these test cases and verify the functionality of each method.
